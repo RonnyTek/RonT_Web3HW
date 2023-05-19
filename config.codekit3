@@ -210,6 +210,27 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/heroes\/Hero image.png" : {
+      "ft" : 32768,
+      "iS" : 1744419,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroes\/Hero image.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/heroes\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroes\/hero.html",
+      "oF" : 0
+    },
     "\/deploy\/img\/html-tag.svg" : {
       "ft" : 2097152,
       "miP" : 0,
